@@ -11,6 +11,7 @@ X - the revision of the standard
 
 
 Note: additional '-' can be added to represent other modifications/extensions to the standard, for example an unusual aspect ratio such as 4:3
+<sub>ex: FF14-1-43
 
 
 ## outline
