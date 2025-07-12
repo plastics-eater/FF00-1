@@ -14,9 +14,12 @@ Pictured below, these serve as attatchment points for the [Upper_Body](../Upper_
 <br>
 <sub>Note: this image is from a prototype of FF14-1</sub>
 
+<br>
+<br>
 
 The posts are placed in each corner of the **base**, attatched to the corner square and hugging the inner side are two 6mm long, 3mm wide rectangles. 
 
 <img width="645" height="570" alt="image is taken from a top down view of an onshape sketch, visble is a 6mm corner square with two rectangles attatched" src="https://github.com/user-attachments/assets/367a17c2-d2a5-4fc3-9891-32ca9bcc910f" />
+<sub>Note: this sketch is placed on a 2mm tall extrusion of the surrounding wall, this is to allow for optional bottom locking tabs.</sub>
 
 
