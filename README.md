@@ -5,8 +5,6 @@ An attempt to create a open standard for a modular 3D printed laptop, please con
 
 ## the name
 
-FF - Fat Fuck
-
 00 - the digits representing the screen size
 
 X - the revision of the standard
