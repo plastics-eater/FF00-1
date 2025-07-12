@@ -1,3 +1,3 @@
-# fatfuck
+# FF00-1
 
-a really fat laptop
+An attempt to create a open standard for a modular 3D printed laptop
