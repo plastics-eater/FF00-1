@@ -13,3 +13,11 @@ FF - Fat Fuck
 
 
 Note: additional '-' can be added to represent other modifications/extensions to the standard, for example an unusual aspect ratio such as 4:3
+
+
+## outline
+
+<img width="1313" height="797" alt="Screenshot 2025-07-11 210018" src="https://github.com/user-attachments/assets/3eec45d3-5c92-448e-9b11-092a50828a6e" />
+
+The body of FF00-1 is composed of 3 primary parts, the upper body (1), tray (2), and lower body (3).
+
