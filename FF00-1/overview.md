@@ -4,4 +4,4 @@ This subdirectory is dedicated to outlining the FF00-1 standard, this is not a c
 <br>
 <sub>See [the name](../README.md) for more information</sub>
 
-As this is the intial standard there are many issues due to my oversight, my hope is that this revision of the standard will draw attention towards this project and hopefully get people far more talented then me to collaborate and help refine future standards.
+As this is the intial standard there are many issues due to my oversight, my hope is that this revision will draw attention towards this project and hopefully get people far more talented then me to collaborate and help refine future standards.
