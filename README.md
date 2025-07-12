@@ -36,5 +36,7 @@ Q: How can I contribute?
 <br>
 A: I plan to make a discord server in the future where discussions can take place around future revisions to the standard, other than that you can contribute through designing your own parts, and raising issues on this repositories issue page.
 
+Other questions? You can reach me on discord @plstcks
+
 
 
