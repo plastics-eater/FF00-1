@@ -25,12 +25,15 @@ The body of FF00-1 is composed of 3 primary parts, the upper body (1), tray (2),
 ## questions
 
 Q: Why?
+<br>
 A: I have seen a couple of attempts at custom made/modular focused laptops but from what I have seen they are either too expensive (MNT Reform), too integrated (Anyon_e), or simply not as modular as I would like (Framework 13).
 
 Q: How can I make my own?
+<br>
 A: I plan to document the full build process of my personal build, [FF14-1](/FF14-1)
 
 Q: How can I contribute?
+<br>
 A: I plan to make a discord server in the future where discussions can take place around future revisions to the standard, other than that you can contribute through designing your own parts, and raising issues on this repositories issue page.
 
 
