@@ -63,8 +63,9 @@ The placement of the **Middle Posts** depends on the substandard, they serve as 
 
 
 ## Walls
-It is important to note that **Wall** height and subsequently **Corner Post** and **Middle Post** height *may vary depending on substandard*. With that in mind, I selected a 30mm **Wall** Height, while this is quite "chunky" I think it serves well as a starting point, allowing for decent tolerances that can be further refined in future standards. 
-
+It is important to note that when I say **Wall** height I am also specifying the **Corner Post** and **Middle Post** height. With that in mind, I selected a 30mm **Wall** Height, while this is quite "chunky" I think it serves well as a starting point, allowing for decent tolerances that can be further refined in future standards. 
+<br>
+<sub>This isnt neccesarily set in stone, experimentation is always welcome</sub>
 
 
 
