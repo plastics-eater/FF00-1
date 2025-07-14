@@ -4,7 +4,10 @@ The walls of FF00-1 are 6mm thick, this was chosen as it allows for M3 heatset i
 <img width="1083" height="646" alt="image taken from a top down view of an onshape sketch, visible are the 6mm squares in each corner of the base" src="https://github.com/user-attachments/assets/cf92455d-ccf6-41ab-971d-4e601b6272fa" />
 <br>
 <sub>Note: this image is from a prototype of FF14-1, the width and depth of the base are irrelevant here</sub>
+
 <br>
+<br>
+
 The inner area of the base is 4mm tall, while the wall edges are 6mm, this is to allow for locking extrusions, detailed in [Upper_Body](../Upper_Body/outline.md)
 <br>
 <img width="1217" height="745" alt="image shows the varying height of the base, 6mm for the wall edges and 4mm for the rest." src="https://github.com/user-attachments/assets/1e6441e9-ca98-44f0-9113-ac2643b5fbe2" />
