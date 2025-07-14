@@ -57,6 +57,7 @@ The placement of the **Middle Posts** depends on the substandard, they serve as 
 <img width="769" height="550" alt="image shows a top down view of an onshape sketch, a 6mm square is placed on the outer wall with a rectangle attatched to the lefthand side of the square." src="https://github.com/user-attachments/assets/86e59d49-17b7-4839-811e-1165d6c45564" />
 <br>
 <img width="666" height="666" alt="image shows an extruded form of the prior sketch" src="https://github.com/user-attachments/assets/5da3ec1f-8c5b-42dc-9b65-63e81b8040c7" />
+<br>
 <sub>The second image shows a 2mm tall extrusion running across the base, this is to allow for the tray to sit flat and will be detailed later. Images taken from a prototype of FF14-1.</sub>
 
 
