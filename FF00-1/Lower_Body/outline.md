@@ -47,7 +47,7 @@ The extrusion placed for an M3 heatset insert lies in the center between the inn
 <br>
 <img width="799" height="700" alt="image shows a topdown view of an onshape sketch, a circle with a diameter of 4mm is visible in the center of the corner post." src="https://github.com/user-attachments/assets/31060f7a-924a-4477-a4df-bb6b82cd2e0f" />
 <br>
-<sub>The radius of the extrusion is dependent on the type of heatset insert used, 4mm was chosen here as it is compatible with commonly found 6mm long M3 inserts. Image taken from a prototype of FF14-1</sub>
+<sub>The diameter of the extrusion is dependent on the type of heatset insert used, 4mm was chosen here as it is compatible with commonly found 6mm long M3 inserts. Image taken from a prototype of FF14-1</sub>
 
 
 
@@ -63,6 +63,8 @@ The placement of the **Middle Posts** depends on the substandard, they serve as 
 
 
 ## Walls
-It is important to note that **Wall Height** and subsequently **Corner Post** and **Middle Post** height *may vary depending on substandard*
+It is important to note that **Wall** height and subsequently **Corner Post** and **Middle Post** height *may vary depending on substandard*. With that in mind, I selected a 30mm **Wall** Height, while this is quite "chunky" I think it serves well as a starting point, allowing for decent tolerances that can be further refined in future standards. 
+
+
 
 
