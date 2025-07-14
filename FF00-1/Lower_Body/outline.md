@@ -18,7 +18,7 @@ The inner area of the base is 4mm tall, while the wall edges are 6mm, this is to
 ## Corner Posts
 
 Pictured below, these serve as attatchment points for the [Upper_Body](../Upper_Body/outline.md) and hold the [Tray](../Tray/outline.md) in place.
-
+<br>
 <img width="936" height="747" alt="image shows a corner post from my prototype FF14-1" src="https://github.com/user-attachments/assets/edb40a1d-078a-4dda-961e-adb14225a702" />
 <br>
 <sub>Note: this image is from a prototype of FF14-1</sub>
@@ -27,7 +27,7 @@ Pictured below, these serve as attatchment points for the [Upper_Body](../Upper_
 <br>
 
 The posts are placed in each corner of the **base**, attatched to the corner square and hugging the inner side are two 6mm long, 3mm wide rectangles. 
-
+<br>
 <img width="645" height="570" alt="image is taken from a top down view of an onshape sketch, visble is a 6mm corner square with two rectangles attatched" src="https://github.com/user-attachments/assets/367a17c2-d2a5-4fc3-9891-32ca9bcc910f" />
 <br>
 <sub>Note: this image is from a prototype of FF14-1</sub>
