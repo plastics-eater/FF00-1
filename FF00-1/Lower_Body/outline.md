@@ -46,7 +46,8 @@ A 6mm fillet is applied to the outer edge of the **Corner Post** this is importa
 The extrusion placed for an M3 heatset insert lies in the center between the inner corner and the edge of the 6mm fillet. (Or 3mm from the inner corner)
 <br>
 <img width="799" height="700" alt="image shows a topdown view of an onshape sketch, a circle with a diameter of 4mm is visible in the center of the corner post." src="https://github.com/user-attachments/assets/31060f7a-924a-4477-a4df-bb6b82cd2e0f" />
-<sub>The radius of the extrusion is dependent on the type of heatset insert used, 4mm was chosen here as it is compatible with commonly found 6mm long M3 inserts.</sub>
+<br>
+<sub>The radius of the extrusion is dependent on the type of heatset insert used, 4mm was chosen here as it is compatible with commonly found 6mm long M3 inserts. Image taken from a prototype of FF14-1</sub>
 
 
 
