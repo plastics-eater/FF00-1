@@ -20,6 +20,8 @@ Note: additional '-' can be added to represent other modifications/extensions to
 <sub>Note: this is a photo of a prototype FF14-1 body</sub>
 <br>
 The body of FF00-1 is composed of 3 primary parts, the upper body (1), tray (2), and lower body (3).
+<br>
+Dimensions will vary depending on substandard, the hinge assembly has not be standardized yet.
 
 
 ## questions
