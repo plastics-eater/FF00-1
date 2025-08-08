@@ -22,6 +22,13 @@ Note: additional '-' can be added to represent other modifications/extensions to
 The body of FF00-1 is composed of 3 primary parts, the upper body (1), tray (2), and lower body (3). Dimensions will vary depending on substandard, the hinge assembly has not been standardized yet.
 
 
+## Update 8/7/25
+
+Huge news, while this platform can technically support any itx motherboard, there havent been many good options.
+<br>
+Today I found out that asrock FINALLY launched their X600tm-itx, an thin-itx AM5 board, the first of its kind. Needless to say I think this will be a signifigantly better option than something like the Orion O6.
+<br>
+<sub>[see it here](https://www.alibaba.com/product-detail/Industrial-Motherboard-Thin-Mini-Itx-1_1601407221104.html)
 ## questions
 
 Q: Why?
